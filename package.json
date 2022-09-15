@@ -1,0 +1,24 @@
+{
+  "name": "ctix-51",
+  "version": "1.0.0",
+  "description": "https://github.com/imjuni/ctix/issues/51",
+  "main": "index.js",
+  "scripts": {
+    "test:51": "ctix single -p ./tsconfig.json -o ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dankeboy36/ctix-51.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dankeboy36/ctix-51/issues"
+  },
+  "homepage": "https://github.com/dankeboy36/ctix-51#readme",
+  "devDependencies": {
+    "ctix": "^1.4.0",
+    "typescript": "^4.8.3"
+  }
+}
